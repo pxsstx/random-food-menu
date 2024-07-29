@@ -1,6 +1,6 @@
 # random-food-menu
 
-##"random-food-menu solves the problem of meal indecision by offering random food suggestions for easy and quick choices."
+## random-food-menu solves the problem of meal indecision by offering random food suggestions for easy and quick choices.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
