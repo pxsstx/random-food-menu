@@ -73,7 +73,7 @@ const Home = () => {
             onChange={handleCategoryChange}
             className="select rounded-lg border-0"
           >
-            <option disabled>Select your favorite meat</option>
+            <option value="" disabled>Select your favorite meat</option>
             {Object.keys(data).map((category) => (
               <option key={category} value={category}>
                 {category}
